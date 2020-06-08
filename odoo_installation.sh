@@ -1,6 +1,9 @@
 #---------------------------------------------------
-# excute the folowing command to do the things
-# sh installation.sh $ODOO_DB_USER 
+# To INSTALL excute the folowing command ready things for you
+# this will suite you any ubuntu versions (12/14/16/20)
+#
+# sh installation.sh $ODOO_DB_USER
+# (eg) sh installation.sh odoo 
 #--------------------------------------------------
 echo "Installation setup Started!!! "
 echo "---------------------------------"
